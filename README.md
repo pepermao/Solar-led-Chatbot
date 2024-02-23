@@ -1,3 +1,4 @@
+![image](https://github.com/pepermao/Solar-led-Chatbot/assets/73478823/d67a4ab6-47f7-4f6a-953f-cc60d83cb973)
 ## Solar led Chatbot
 
 Welcome to the repository for the Solar-led Chatbot, developed by Inance landing page, a company specializing in repair and maintenance services, with a focus on electrical solutions. Our innovative website features an interactive assistant named Luci, designed to assist customers with information and savings regarding solar energy.
@@ -18,6 +19,9 @@ The primary objective of Luci is to empower users with information and strategie
 2. **Information Gathering**: Luci prompts users for relevant information, such as location and energy consumption patterns.
 3. **Recommendations**: Based on user input and API data, Luci offers personalized recommendations for solar energy solutions.
 4. **Lead Generation**: Upon concluding the interaction, Luci collects user contact details and logs the information in Airtable for future outreach.
+
+![image](https://github.com/pepermao/Solar-led-Chatbot/assets/73478823/feb43d80-a678-4608-8477-192545ff9357)
+
 
 ### Video Tutorial
 For a comprehensive guide on creating advanced chatbots like Luci, watch the tutorial provided by Liam Ottley:
